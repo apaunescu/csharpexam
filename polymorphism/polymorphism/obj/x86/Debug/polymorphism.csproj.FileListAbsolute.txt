@@ -1,0 +1,5 @@
+/Users/lake/Desktop/c#/csharpexam/polymorphism/polymorphism/obj/x86/Debug/polymorphism.csproj.CoreCompileInputs.cache
+/Users/lake/Desktop/c#/csharpexam/polymorphism/polymorphism/bin/Debug/polymorphism.exe
+/Users/lake/Desktop/c#/csharpexam/polymorphism/polymorphism/bin/Debug/polymorphism.pdb
+/Users/lake/Desktop/c#/csharpexam/polymorphism/polymorphism/obj/x86/Debug/polymorphism.exe
+/Users/lake/Desktop/c#/csharpexam/polymorphism/polymorphism/obj/x86/Debug/polymorphism.pdb

@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{DC67B7E3-3F6A-4844-8383-5AD1E892C3D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="polymorphism/Program.cs">
+    <Files>
+      <File FileName="polymorphism/Program.cs" Line="3" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
